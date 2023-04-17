@@ -194,13 +194,13 @@ Nᴀᴍᴇ - {}"""
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
 <b>
-╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
-╰─────── • ◆ • ───────╯
 
-=========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @DQ_The_File_Donor_Updates
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @DQ_The_File_Donor_Support
+🔰 𝗠𝗢𝗩𝗜𝗘 𝗚𝗥𝗢𝗨𝗣 : @MZ_MOVIEZZGRP
+
+
+🔰 𝗠𝗢𝗩𝗜𝗘 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : t.me/+PW2iWBmgTlY0NzM1
+
+
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
@@ -238,7 +238,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
-🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
+🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>India/Kerala</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
     LOGO = """
