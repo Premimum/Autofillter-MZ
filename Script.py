@@ -193,11 +193,11 @@ Nᴀᴍᴇ - {}"""
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
-<b>
+<b>🔰 𝗠𝗢𝗩𝗜𝗘 𝗚𝗥𝗢𝗨𝗣 : @MZ_MOVIEZZGRP
 
-🔰 𝗠𝗢𝗩𝗜𝗘 𝗚𝗥𝗢𝗨𝗣 : @MZ_MOVIEZZGRP
+🔰 𝗠𝗢𝗩𝗜𝗘 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : t.me/+PW2iWBmgTlY0NzM1
 
-🔰 𝗠𝗢𝗩𝗜𝗘 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : t.me/+PW2iWBmgTlY0NzM1</b>"""
+</b>"""
 
 
 
