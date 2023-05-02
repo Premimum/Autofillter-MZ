@@ -193,7 +193,7 @@ Nᴀᴍᴇ - {}"""
     CAPTION = """
 <b>@MM_Archives </b> <code>{file_name}</code>
 
-<b>🔰 𝗠𝗢𝗩𝗜𝗘 𝗚𝗥𝗢𝗨𝗣 : @MZ_MOVIEZZGRP
+<b>🔰 𝗠𝗢𝗩𝗜𝗘 𝗚𝗥𝗢𝗨𝗣 : @All_Movi_es_Group
 
 🔰 𝗠𝗢𝗩𝗜𝗘 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : t.me/+PW2iWBmgTlY0NzM1
 
